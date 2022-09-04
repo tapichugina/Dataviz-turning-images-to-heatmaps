@@ -1,2 +1,2 @@
-# Dataviz-turning-images-to-heatmaps
-Dataviz turning images to heatmaps
+# Turning images into heatmaps
+
