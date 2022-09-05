@@ -1,4 +1,4 @@
-# Turning images into heatmaps
+# Create LinkedIn backgrounds by turning images into heatmaps
 
 **created**: 9 Sep 2022 <br>
 **author**: Tatyana Pichugina <br>
